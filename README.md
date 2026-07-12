@@ -1,4 +1,4 @@
-# Israeli Election Block Prediction by Locality
+# Israeli Election Bloc Prediction by Locality
 
 A machine-learning project for predicting the distribution of votes among four political blocs in Israeli localities, using historical election results and demographic, socioeconomic, education, and locality-type features.
 
@@ -8,9 +8,7 @@ A machine-learning project for predicting the distribution of votes among four p
 |---|---|
 | Ifat Davidson | |
 | Yuval | |
-| Roy | |
-
-> Complete the responsibility column before final submission.
+| Roi | |
 
 ---
 
