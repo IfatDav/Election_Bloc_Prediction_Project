@@ -140,34 +140,6 @@ The processed modeling dataset contains:
 - **25 selected demographic features**
 - Locality-type and engineered classification variables
 
-A detailed description of the tables and columns should be maintained in:
-
-[`data/data_dictionary.md`](data/data_dictionary.md)
-
-### Data Availability
-
-Large raw-data files are not stored in Git.
-
-The project data can optionally be accessed through the shared Google Colab notebook:
-
-- [Open the project data access notebook in Google Colab](https://colab.research.google.com/drive/1unEgDhWkNVrjcHgow639o9mJu27WLQgK?usp=drive_link)
-
-The linked Colab notebook and its connected Google Drive files should be shared with the instructor using **Viewer** permission. Use either:
-
-- access restricted to the instructor's Google account, or
-- **Anyone with the link — Viewer**, only when the folder contains public, non-sensitive project data.
-
-To reproduce the project:
-
-1. Download the original public files from the sources above or access them through the shared Colab notebook.
-2. Store them in the expected local or Google Drive folders.
-3. Update `PROJECT_DIR` in the notebooks when using a different directory.
-4. Run the notebooks in numerical order.
-
-Only a small processed sample should be uploaded to GitHub when needed to demonstrate the data structure.
-
----
-
 ## Methodology
 
 ### 1. Party-to-Bloc Mapping
