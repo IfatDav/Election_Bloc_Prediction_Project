@@ -6,9 +6,10 @@ A machine-learning project for predicting the distribution of votes among four p
 
 | Team member | Main responsibility |
 |---|---|
-| Ifat Davidson  | | Database construction and EDA | |
-| Yuval | |
-| Roi | |
+| Ifat Davidson | Database construction, integration and EDA|
+| Roi Budnitsky | Model development, training and evaluation |
+| Yuval Rubenchuk | Interpretation, conclusions and presentation |
+
 
 ---
 
