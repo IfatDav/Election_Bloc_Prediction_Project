@@ -381,7 +381,6 @@ election-bloc-prediction/
 │  ├─ figures/                # saved charts
 │  ├─ model_results.md        # concise performance summary
 │  └─ *.csv / *.json          # comparison tables and summaries
-├─ src/                       # placeholder for reusable functions
 └─ presentation/              # slide deck
 ```
 
@@ -412,5 +411,3 @@ Notes:
 3. Generate one future prediction per locality and evaluate the next election as a truly unseen test set.
 4. Add a previous-election baseline for comparison.
 5. Add temporal and political-event features, and evaluate leave-one-election-out validation.
-6. Move reusable functions from notebooks into `src/`.
-7. Add the final slide deck to `presentation/`.
