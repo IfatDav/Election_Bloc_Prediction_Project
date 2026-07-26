@@ -6,7 +6,7 @@ A machine-learning project for predicting the distribution of votes among four p
 
 | Team member | Main responsibility |
 |---|---|
-| Ifat  | |
+| Ifat Davidson — Database construction and EDA  | |
 | Yuval | |
 | Roi | |
 
