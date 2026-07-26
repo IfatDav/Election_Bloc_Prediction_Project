@@ -1,0 +1,26 @@
+{
+  "selected_hybrid_model": "Hybrid XGBoost + Types + Lag",
+  "selection_validation_election": "Knesset_24",
+  "test_election": "Knesset_25",
+  "hybrid_feature_count": 37,
+  "lag_features": [
+    "lag_Right_pct",
+    "lag_Center_Left_pct",
+    "lag_Haredi_pct",
+    "lag_Arab_pct"
+  ],
+  "hybrid_test_mae": 3.627471082377477,
+  "hybrid_test_r2": 0.9429825938254348,
+  "demographic_test_mae": 4.207028034932412,
+  "baseline_persistence_test_mae": 3.2963518302433834,
+  "baseline_persistence_2mean_test_mae": 2.273375392007801,
+  "hybrid_test_mae_by_target": {
+    "Right_pct": 5.387116792343339,
+    "Center_Left_pct": 3.8125460629719834,
+    "Haredi_pct": 1.503267156682422,
+    "Arab_pct": 3.8069543175121634
+  },
+  "delta_experiment_r2": -0.9713146059017419,
+  "delta_experiment_mae": 3.827165149831109,
+  "delta_zero_baseline_mae": 3.2279929881829625
+}
